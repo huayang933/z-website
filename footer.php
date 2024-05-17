@@ -50,6 +50,11 @@
 
 			getData(sheetId, "portfolio").then((data) => {
 				this.portfolio = sheetTransformer(data.table.cols, data.table.rows);
+
+				setTimeout(() => {
+					
+				}, 1000);
+
 			}).catch((error) => {
 				console.error("An error occurred:", error);
 			});
@@ -58,7 +63,7 @@
 			googleImageConvertToImage(link) {
 				return "https://lh3.googleusercontent.com/d/" + link.split('/')[5] + "=w500";
 			}
-			
+
 		},
 		computed: {
 			filteredCustomers() {
