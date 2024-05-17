@@ -25,16 +25,19 @@
                         </div>
                     </li> -->
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="/">Home</a>
+                        <a class="nav-link js-scroll-trigger <?php active('')?>" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="/about">About</a>
+                        <a class="nav-link js-scroll-trigger <?php active('about')?>" href="/about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="/contact">Contact</a>
+                        <a class="nav-link js-scroll-trigger <?php active('faq')?>" href="/faq">FAQs</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="/portfolio">Portfolio</a>
+                        <a class="nav-link js-scroll-trigger <?php active('contact')?>" href="/contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger <?php active('portfolio')?>" href="/portfolio">Portfolio</a>
                     </li>
                 </ul>
             </div>
