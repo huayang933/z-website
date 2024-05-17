@@ -21,7 +21,8 @@
         <section class="blog-one after-banner">
             <div class="container">
                 <div class="d-grid blog-wrapper">
-                    <div class="blog-one-wrapper">
+
+                    <div class="blog-one-wrapper" v-for="image">
                         <div class="blog-one-img ratio ratio-16x9">
                             <img src="assets/images/blog/blog-01.jpg" alt="blog-images" />
                         </div>
@@ -33,102 +34,7 @@
                             <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
                         </div>
                     </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-02.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-03.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-04.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-05.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-06.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-07.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-08.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
-                    <div class="blog-one-wrapper">
-                        <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-09.jpg" alt="blog-images" />
-                        </div>
-                        <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </section>
