@@ -22,16 +22,15 @@
             <div class="container">
                 <div class="d-grid blog-wrapper">
 
-                    <div class="blog-one-wrapper" v-for="image">
+                    <div class="blog-one-wrapper" v-for="(blog, index) in portfolio">
                         <div class="blog-one-img ratio ratio-16x9">
-                            <img src="assets/images/blog/blog-01.jpg" alt="blog-images" />
+                            <img :src="googleImageConvertToImage(blog.googleImageLink)" alt="blog-images" />
                         </div>
                         <div class="blog-one-content">
                             <a href="singleblog.html" class="blog-one-link"></a>
-                            <h2 class="blog-one-title">Lorem Ipsum is simply</h2>
-                            <p class="blog-one-text">Lorem Ipsum is dummy text of the printing and type setting
-                                industry.</p>
-                            <div class="blog-one-time"><i class="fas fa-clock"></i> November 21, 2019</div>
+                            <h2 class="blog-one-title">{{blog.title}}</h2>
+                            <p class="blog-one-text">{{blog.description}}</p>
+                            <div class="blog-one-time"><i class="fas fa-clock"></i> {{blog.date}}</div>
                         </div>
                     </div>
 

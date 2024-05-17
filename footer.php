@@ -1,3 +1,4 @@
+</div>
  <!-- Scroll to Top Start -->
  <a href="JavaScript:void(0)" class="toTop" onclick="toTopClick()">
         <i data-icon="arrowUp"></i>
@@ -57,6 +58,7 @@
 			googleImageConvertToImage(link) {
 				return "https://lh3.googleusercontent.com/d/" + link.split('/')[5] + "=w500";
 			}
+			
 		},
 		computed: {
 			filteredCustomers() {

@@ -36,3 +36,5 @@
             <div class="spinner-icon"></div>
         </div>
     </div>
+
+    <div id="app">
