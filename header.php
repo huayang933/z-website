@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Metrix is a sleek and modern app landing page template built with HTML, CSS, and JavaScript. It's designed to showcase your app's features and attract potential users.">
-    <meta name="keywords" content="Metrix - App Landing Page Template, application landing page, application website landing page, responsive website, application responsive website, mobile app landing website, latest bootstrap mobile application website design, product lounch website, app product lounch website, bootstrap template, creative mobile website, multi pages template, landing page website, minimal portfolio, mobile app intro website">
+    <meta name="description" content="Zeta Capital, App Landing, App Landing Page, Landing HTML5 Template">
+    <meta name="keywords" content="Zeta Capital, App Landing, App Landing Page, Landing HTML5 Template" />
     <meta name="author" content="white orange software">
     <!-- meta og property tags start -->
     <meta property="og:title" content="404 || Metrix"/>
@@ -20,12 +20,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="robots" content="noindex">
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="72x72" href="../assets/images/favicons/apple-touch-icon.html">
-    <link rel="icon" type="images/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="images/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="mask-icon" href="https://staging.whiteorangesoftware.com/assets/images/favicons/safari-pinned-tab.svg" color="#ffffff">
-    <meta name="msapplication-TileColor" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+   
     <!-- All Css -->
     <link type="text/css" rel="stylesheet" href="assets/css/styles.css">
 </head>
