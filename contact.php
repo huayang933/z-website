@@ -92,21 +92,24 @@
                         </div>
     
                         <div class="page-contact-one-form-wrapper text-center">
-                            <form class="d-flex flex-column gap-3">
+                            <form class="d-flex flex-column gap-3" @submit.prevent="submitForm">
+                                <pre>{{formData}}</pre>
                                 <div class="form-group">
-                                    <input type="text" id="contactGetName" class="input-two" placeholder="Your Name" />
+                                    <input v-model="formData.name" type="text" id="contactGetName" class="input-two" placeholder="Your Name" />
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" id="contactGetMail" class="input-two" placeholder="Your Email" />
+                                    <input v-model="formData.email" type="email" id="contactGetMail" class="input-two" placeholder="Your Email" />
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" id="contactGetPhone" class="input-two" placeholder="Your Phone" />
+                                    <input v-model="formData.contact" type="text" id="contactGetPhone" class="input-two" placeholder="Your Phone" />
                                 </div>
                                 <div class="form-group">
-                                    <textarea type="text" id="contactGetMessage" class="textarea-two"
+                                    <textarea v-model="formData.message" type="text" id="contactGetMessage" class="textarea-two"
                                         placeholder="Your Message" rows="8"></textarea>
                                 </div>
-                                <button type="submit" class="btn-common btn-submit-two mt-0"> Send Message</button>
+                                <button v-if="status == 'onSubmit'" class="btn-common btn-submit-two mt-0"> Send Message </button>
+                                <button v-else-if="status == 'submiting'" class="btn-common btn-submit-two mt-0"> Loding.. </button>
+                                <button v-if="status == 'successful'" class="btn-common btn-submit-two mt-0"> Success </button>
                             </form>
                         </div>
     
