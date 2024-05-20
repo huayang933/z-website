@@ -74,7 +74,14 @@
 	new Vue({
 		el: '#app',
 		data: {
-			portfolio: []
+			portfolio: [],
+			formData: {
+				name: '3123',
+				email: '321@32231',
+				contact: '313',
+				message: '312'
+			},
+			status: 'onSubmit'
 		},
 		// 开始执行代码前，第一个执行就是 mounted
 		mounted() {
@@ -124,8 +131,46 @@
 		methods: {
 			googleImageConvertToImage(link) {
 				return "https://lh3.googleusercontent.com/d/" + link.split('/')[5] + "=w500";
-			}
+			},
+			submitForm() {
+				const bookingData = {
+					name: this.formData.name,
+					email: this.formData.email,
+					contact: this.formData.contact,
+					message: this.formData.message,
+				};
 
+				this.status = 'submiting';
+				console.log('Booking Data:', bookingData);
+				const fetchCode = 'AKfycbxCwAQfp4HEWJ0oxmmr2C2VrDqEPP2QDolTkpbR7YiyCKtabYR-fODKZR6zJJU8fRE';
+				setTimeout(() => {
+					this.status = 'successful';
+				}, 2000);
+				this.fetchPostByType("sendEmail", fetchCode, bookingData);
+			},
+			fetchPostByType(type, url, data) {
+				// data type
+				const dataType = {};
+				for (const key in data) {
+					dataType[key] = typeof data[key];
+				}
+				const postData = { type, data, dataType };
+
+				let fetchPromise = fetch(
+					`https://script.google.com/macros/s/${url}/exec`,
+					{
+						method: "POST",
+						mode: "no-cors",
+						cache: "no-cache",
+						headers: {
+							"Content-Type": "application/json",
+						},
+						redirect: "follow",
+						body: JSON.stringify(postData),
+					}
+				);
+				return fetchPromise;
+			}
 		},
 		computed: {
 			filteredCustomers() {
