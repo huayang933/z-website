@@ -29,167 +29,7 @@
                 </div>
             </div>
         </section>
-    
-        <!-- Partners Section Start -->
-        <section class="home-one-partners">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="home-one-partners-group">
-                            <div class="home-one-mates">
-                                <img src="assets/images/partner/eatfit-partner-envato.png" alt="partners" />
-                            </div>
-                            <div class="home-one-mates">
-                                <img src="assets/images/partner/eatfit-partner-audiojungle.png" alt="partners" />
-                            </div>
-                            <div class="home-one-mates">
-                                <img src="assets/images/partner/eatfit-partner-videohove.png" alt="partners" />
-                            </div>
-                            <div class="home-one-mates">
-                                <img src="assets/images/partner/eatfit-partner-slack.png" alt="partners" />
-                            </div>
-                            <div class="home-one-mates">
-                                <img src="assets/images/partner/eatfit-partner-code.png" alt="partners" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
-        <!-- Core Features Starts Here  -->
-        <section id="features" class="home-pb">
-            <div class="container d-flex flex-column gap-5">
-                <div class="text-center">
-                    <h2 class="page-head-one-title">Core Features</h2>
-                    <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots" />
-                    <p class="page-head-one-short">Efficiently syndicate flexible content via cost effective
-                        initiatives completely leverage vertical quality. Turn your mobile visitors into your best
-                        customers.</p>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="features position-relative">
-                            <div class="features_round">
-                                <img src="assets/images/round.png" alt="round" />
-                            </div>
-                            <div class="features-dots">
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features1.png" alt="features1" />
-                                    </span>
-                                    <div>
-                                        <h5>Trendy Look</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features2.png" alt="features2" />
-                                    </span>
-                                    <div>
-                                        <h5>Speed Optimization</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features3.png" alt="features3" />
-                                    </span>
-                                    <div>
-                                        <h5>Clean Code</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features4.png" alt="features4" />
-                                    </span>
-                                    <div>
-                                        <h5>Full Customization</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features5.png" alt="features5" />
-                                    </span>
-                                    <div>
-                                        <h5>No Ads</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                                <button>
-                                    <span class="iconz">
-                                        <img src="assets/images/icons/features6.png" alt="features6" />
-                                    </span>
-                                    <div>
-                                        <h5>Free Support</h5>
-                                        <p>We provide marketing to businesses digital media.</p>
-                                    </div>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
-        <!-- Work Process Section Start -->
-        <section class="work-precess-one home-pb" id="works">
-            <div class="container d-flex flex-column gap-5">
-                <div class="text-center">
-                    <h2 class="page-head-one-title">How It Works</h2>
-                    <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots" />
-                    <p class="page-head-one-short">Efficiently syndicate flexible content via cost effective
-                        initiatives completely leverage vertical quality. </p>
-                </div>
-                <div class="position-relative">
-                    <img src="assets/images/shape-ring-with-bg.png" alt="ring" class="work-process-ring" />
-    
-                    <div class="work-process-one-card">
-    
-                        <div class="work-process-one-worksteps">
-                            <div class="row align-items-center">
-                                <div class="work-process-one-steps">
-                                    <div class="work-process-one-step-number">1</div>
-                                </div>
-                                <div class="work-process-one-steps">
-                                    <div class="work-process-one-step-number">2</div>
-                                </div>
-                                <div class="work-process-one-steps">
-                                    <div class="work-process-one-step-number">3</div>
-                                </div>
-                            </div>
-                        </div>
-    
-                        <div class="mb-4">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <h3 class="work-process-one-title">Register / Login To <br> Our Platform</h3>
-                                    <p class="work-process-one-text">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Laudantium modi assumenda beatae provident.</p>
-                                </div>
-    
-                                <div class="col-md-4">
-                                    <h3 class="work-process-one-title">Enter Your Information <br> Details</h3>
-                                    <p class="work-process-one-text">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Laudantium modi assumenda beatae provident.</p>
-                                </div>
-    
-                                <div class="col-md-4">
-                                    <h3 class="work-process-one-title">Follow Your Software <br> Usage Steps</h3>
-                                    <p class="work-process-one-text">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit. Laudantium modi assumenda beatae provident.</p>
-                                </div>
-                            </div>
-                        </div>
-    
-                    </div>
-                </div>
-            </div>
-        </section>
-    
+                
         <!-- Screenshots Section Start -->
         <section id="screenshots" class="home-pb">
             <div class="container d-flex flex-column gap-5">
@@ -478,224 +318,41 @@
                 </div>
             </div>
         </section>
-    
-        <!-- Faq Section Start -->
-        <section class="faq-one bg-norepeat-cover index_faq" id="faqs">
-            <div class="container d-flex flex-column gap-5">
-                <div class="text-center">
-                    <h2 class="page-head-one-title">Frequently Asked Questions</h2>
-                    <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots" />
-                    <p class="page-head-one-short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                        quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.</p>
-                </div>
-                <div class="row">
-                    <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8">
-                        <div class="faq-data-wrapper home2_faq_inner">
-                            <div class="accordion" id="accordionExample">
-    
-                                <div class="card faq-one-card accordion-item">
-                                    <h3 class="mb-0">
-                                        <button class="btn faq-one-btn-que border-0 collapsed accordion-button"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                            aria-expanded="true" aria-controls="collapseOne">
-                                            What is the best features and services we
-                                            deiver?
-                                        </button>
-                                    </h3>
-                                    <div id="collapseOne" class="collapse" aria-labelledby="FaqOne"
-                                        data-parent="#accordionExample" style="">
-                                        <div class="card-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Dolore omnis quaerat nostrum, pariatur ipsam sunt accusamus enim necessitatibus
-                                            est fugiat, assumenda dolorem, deleniti corrupti cupiditate ipsum, dolorum
-                                            voluptatum esse error?
-                                        </div>
-                                    </div>
-                                </div>
-    
-                                <div class="card faq-one-card accordion-item">
-                                    <h3 class="mb-0">
-                                        <button class="btn faq-one-btn-que border-0 collapsed accordion-button"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
-                                            aria-expanded="false" aria-controls="flush-collapseTwo">
-                                            Why this app important to me?
-    
-                                        </button>
-                                    </h3>
-                                    <div id="flush-collapseTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="card-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Dolore omnis quaerat nostrum, pariatur ipsam sunt accusamus enim necessitatibus
-                                            est fugiat, assumenda dolorem, deleniti corrupti cupiditate ipsum, dolorum
-                                            voluptatum esse error?
-                                        </div>
-                                    </div>
-                                </div>
-    
-                                <div class="card faq-one-card accordion-item">
-                                    <h3 class="mb-0">
-                                        <button class="btn faq-one-btn-que border-0 collapsed accordion-button"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            How may I take part in and purchase this
-                                            Software?
-                                        </button>
-                                    </h3>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="FaqThree"
-                                        data-parent="#accordionExample" style="">
-                                        <div class="card-body">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                            elit.
-                                            Dolore omnis quaerat nostrum, pariatur ipsam sunt accusamus enim
-                                            necessitatibus
-                                            est fugiat, assumenda dolorem, deleniti corrupti cupiditate ipsum,
-                                            dolorum
-                                            voluptatum esse error?
-                                        </div>
-                                    </div>
-                                </div>
-    
-                                <div class="card faq-one-card accordion-item">
-                                    <h3 class="mb-0">
-                                        <button class="btn faq-one-btn-que border-0 collapsed accordion-button"
-                                            type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            What are the objectives of this
-                                            Software?
-                                        </button>
-                                    </h3>
-                                    <div id="collapseFour" class="collapse" aria-labelledby="FaqFour"
-                                        data-parent="#accordionExample" style="">
-                                        <div class="card-body">Lorem ipsum dolor sit amet, consectetur
-                                            adipisicing elit.
-                                            Dolore omnis quaerat nostrum, pariatur ipsam sunt accusamus enim
-                                            necessitatibus
-                                            est fugiat, assumenda dolorem, deleniti corrupti cupiditate ipsum,
-                                            dolorum
-                                            voluptatum esse error?
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
-        <!-- Blog Section Start -->
-        <section class="home-pb">
-            <div class="container d-flex flex-column gap-5">
-                <div class="text-center">
-                    <h2 class="page-head-one-title">Read Our Latest News</h2>
-                    <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots">
-                    <p class="page-head-one-short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                        quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.</p>
-                </div>
-                <div class="d-grid home-one-blog">
-                    <a href="singleblog.html" class="blog_inner">
-                        <div class="blog_img ratio ratio-1x1">
-                            <img src="assets/images/blog/blog-11.jpg" alt="blog">
-                        </div>
-                        <div class="blog_dec">
-                            <h6>Lorem Ipsum is simply</h6>
-                            <p>Lorem Ipsum is dummy text of the printing and typesetting industry.</p>
-                        </div>
-                    </a>
-                    <a href="singleblog.html" class="blog_inner">
-                        <div class="blog_img ratio ratio-1x1">
-                            <img src="assets/images/blog/blog-12.jpg" alt="blog">
-                        </div>
-                        <div class="blog_dec">
-                            <h6>Lorem Ipsum is simply</h6>
-                            <p>Lorem Ipsum is dummy text of the printing and typesetting industry.</p>
-                        </div>
-                    </a>
-                    <a href="singleblog.html" class="blog_inner">
-                        <div class="blog_img ratio ratio-1x1">
-                            <img src="assets/images/blog/blog-06.jpg" alt="blog">
-                        </div>
-                        <div class="blog_dec">
-                            <h6>Lorem Ipsum is simply</h6>
-                            <p>Lorem Ipsum is dummy text of the printing and typesetting industry.</p>
-                        </div>
-                    </a>
-                    <div class="blue_bg">
-                        <div class="inner_title">
-                            Read Our Latest Blog
-                        </div>
-                        <a href="blog.html" class="inner_blog">
-                            View All <i class="fal fa-long-arrow-alt-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
+            
         <!-- Contact Section Start -->
-        <section id="contacts">
+        <section class="page-conatct-one">
             <div class="container">
-                <div class="page-head-one">
-                    <h2 class="page-head-one-title">Let's Talk About Your Idea</h2>
-                    <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots">
-                    <p class="page-head-one-short">Check these testimonials from our satisfied customers!</p>
-                </div>
-                <div class="d-grid contacts-home align-items-start justify-content-between">
-                    <form class="index_from">
-                        <div class="form-group">
-                            <input type="text" id="setName" class="input-one" placeholder="User Name">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="page-head-one">
+                            <h2 class="page-head-one-title">Let's Talk About Your Idea</h2>
+                            <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots">
+                            <p class="page-head-one-short">Check these testimonials from our satisfied customers!</p>
                         </div>
-                        <div class="form-group">
-                            <input type="text" id="setEmail" class="input-one" placeholder="Your Email">
+    
+                        <div class="page-contact-one-form-wrapper text-center">
+                            <form class="d-flex flex-column gap-3">
+                                <div class="form-group">
+                                    <input type="text" id="contactGetName" class="input-two" placeholder="Your Name">
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" id="contactGetMail" class="input-two" placeholder="Your Email">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="contactGetPhone" class="input-two" placeholder="Your Phone">
+                                </div>
+                                <div class="form-group">
+                                    <textarea type="text" id="contactGetMessage" class="textarea-two" placeholder="Your Message" rows="8"></textarea>
+                                </div>
+                                <button type="submit" class="btn-common btn-submit-two mt-0"> Send Message</button>
+                            </form>
                         </div>
-                        <div class="form-group">
-                            <input type="text" id="setPhone" class="input-one" placeholder="Your Phone">
-                        </div>
-                        <div class="form-group">
-                            <textarea id="w3review" name="w3review" placeholder="Your Dec" style="height: 180px"></textarea>
-                        </div>
-                        <div class="from_submit text-center">
-                            <a href="javascript:void(0)" class="btn btn-common">Send Message</a>
-                        </div>
-                    </form>
-                    <div class="d-grid contacts-home-right">
-                        <div class="contact_bg">
-                            <div class="contact_img">
-                                <img src="assets/images/icons/loaction.png" alt="loaction">
-                            </div>
-                            <div class="contact_dec">
-                                <h4>Office Location</h4>
-                                <p>12 Street Name, </p>
-                                <p>Calefornia, United States.</p>
-                            </div>
-                        </div>
-                        <div class="contact_bg">
-                            <div class="contact_img">
-                                <img src="assets/images/icons/clock.png" alt="clock">
-                            </div>
-                            <div class="contact_dec">
-                                <h4>Office Hours</h4>
-                                <p>Saturday - Thursday</p>
-                                <p>9:00 AM - 5:00 PM</p>
-                            </div>
-                        </div>
-                        <div class="contact_bg">
-                            <div class="contact_img">
-                                <img src="assets/images/icons/call.png" alt="call">
-                            </div>
-                            <div class="contact_dec">
-                                <h4>Phone Number</h4>
-                                <p>+123 4567 890</p>
-                                <p>+098 7654 321</p>
-                            </div>
-                        </div>
-                        <div class="contact_bg">
-                            <div class="contact_img">
-                                <img src="assets/images/icons/mail.png" alt="mail">
-                            </div>
-                            <div class="contact_dec">
-                                <h4>Email ID</h4>
-                                <p>help.omnibubble@gmail.com</p>
-                                <p>help.omnibubble@gmail.com</p>
-                            </div>
+    
+                    </div>
+    
+                    <div class="col-lg-6">
+                        <div class="map-wrapper">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.7287297413645!2d72.83747162601586!3d21.20293258177217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04ef82612f015%3A0xf69a23bbf800fd4c!2sRailway%20Station%20Area%2C%20Varachha%2C%20Surat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1711706973549!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <!-- Title Of The Page -->
-    <title>zetE</title>
+    <title>Zeta</title>
     <!-- Meta Information -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
@@ -12,7 +12,7 @@
     <meta name="author" content="white orange software">
     <!-- meta og property tags start -->
     <meta property="og:title" content="404 || Metrix"/>
-    <meta property="og:description" content="Metrix is a sleek and modern app landing page template built with HTML, CSS, and JavaScript. It's designed to showcase your app's features and attract potential users." />
+    <meta property="og:description" content="Zeta is a sleek and modern app landing page template built with HTML, CSS, and JavaScript. It's designed to showcase your app's features and attract potential users." />
     <meta property="og:type content=website" />
     <meta property="og:image" content="assets/images/banner/etfit-index-one-hero-04.png" />
     <meta property="og:URL" content="https://staging.whiteorangesoftware.com/metrix" />

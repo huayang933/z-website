@@ -6,11 +6,11 @@
         <section class="page-banner-one bg-norepeat-cover after-header">
             <div class="container">
                 <div class="page-banner-content">
-                    <h1>Blog</h1>
+                    <h1>Portfolio</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="home.html">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Blog</li>
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Portfolio</li>
                         </ol>
                     </nav>
                 </div>

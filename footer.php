@@ -7,12 +7,12 @@
 					<div class="col-6 offset-md-3 col-md-3 offset-lg-0 col-lg-2 order-2 order-lg-1">
 						<div class="footer-one-link-group text-lg-start">
 							<ul class="footer-one-link-list">
-								<li class="footer-one-link-head">Useful Links</li>
+								<li class="footer-one-link-head">Zeta Capital Sdn Bhd</li>
 								<li><a href="/" class="footer-one-link">Home</a></li>
+								<li><a href="/services" class="footer-one-link">Services</a></li>
 								<li><a href="/about" class="footer-one-link">About</a></li>
-								<li><a href="/contact" class="footer-one-link">Contact us</a></li>
-								<li><a href="/faq" class="footer-one-link">FAQs</a></li>
 								<li><a href="/portfolio" class="footer-one-link">Portfolio</a></li>
+								<li><a href="/contact" class="footer-one-link">Contact us</a></li>
 							</ul>
 						</div>
 					</div>
