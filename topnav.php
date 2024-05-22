@@ -25,19 +25,19 @@
                         </div>
                     </li> -->
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger <?php active('')?>" href="/">Home</a>
+                        <a class="nav-link js-scroll-trigger <?php active('')?>" href="/">主页</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger <?php active('services')?>" href="/services">Services</a>
+                        <a class="nav-link js-scroll-trigger <?php active('services')?>" href="/services">服务</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger <?php active('about')?>" href="/about">About</a>
+                        <a class="nav-link js-scroll-trigger <?php active('about')?>" href="/about">关于</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger <?php active('portfolio')?>" href="/portfolio">Portfolio</a>
+                        <a class="nav-link js-scroll-trigger <?php active('portfolio')?>" href="/portfolio">作品</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger <?php active('contact')?>" href="/contact">Contact</a>
+                        <a class="nav-link js-scroll-trigger <?php active('contact')?>" href="/contact">联系</a>
                     </li>
                 </ul>
             </div>

@@ -6,11 +6,11 @@
         <section class="page-banner-one bg-norepeat-cover after-header">
             <div class="container">
                 <div class="page-banner-content">
-                    <h1>Portfolio</h1>
+                    <h1>作品</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="/">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Portfolio</li>
+                            <li class="breadcrumb-item"><a href="/">主页</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">作品</li>
                         </ol>
                     </nav>
                 </div>
@@ -27,7 +27,7 @@
                             <img :src="googleImageConvertToImage(blog.googleImageLink)" alt="blog-images" />
                         </div>
                         <div class="blog-one-content">
-                            <a href="singleblog.html" class="blog-one-link"></a>
+                            <!-- <a href="singleblog.html" class="blog-one-link"></a> -->
                             <h2 class="blog-one-title">{{blog.title}}</h2>
                             <p class="blog-one-text">{{blog.description}}</p>
                             <div class="blog-one-time"><i class="fas fa-clock"></i> {{blog.date}}</div>

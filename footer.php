@@ -8,11 +8,11 @@
 					<div class="footer-one-link-group text-lg-start">
 						<ul class="footer-one-link-list">
 							<li class="footer-one-link-head">Zeta Capital Sdn Bhd</li>
-							<li><a href="/" class="footer-one-link">Home</a></li>
-							<li><a href="/services" class="footer-one-link">Services</a></li>
-							<li><a href="/about" class="footer-one-link">About</a></li>
-							<li><a href="/portfolio" class="footer-one-link">Portfolio</a></li>
-							<li><a href="/contact" class="footer-one-link">Contact us</a></li>
+							<li><a href="/" class="footer-one-link">主页</a></li>
+							<li><a href="/services" class="footer-one-link">服务</a></li>
+							<li><a href="/about" class="footer-one-link">关于</a></li>
+							<li><a href="/portfolio" class="footer-one-link">作品</a></li>
+							<li><a href="/contact" class="footer-one-link">联系</a></li>
 						</ul>
 					</div>
 				</div>
@@ -23,8 +23,7 @@
 						<a class="footer-one-brand" href="home.html">
 							<img src="assets/images/logo/logo-white.svg" alt="logo" />
 						</a>
-						<p class="footer-one-text">Intrinsicly matrix high standards in niches whereas
-							intermandated niche markets. Objectively harness competitive resources.</p>
+						<p class="footer-one-text">客观地利用竞争资源，在细分市场中树立高标准的内在矩阵，而不是由外部授权的细分市场。</p>
 
 						<!-- Social Links -->
 						<div class="footer-one-social-links-group">
@@ -53,7 +52,7 @@
 		<div class="row">
 			<!-- Copyright Text -->
 			<div class="footer-one-copyright">
-				<label class="m-0">Copyright <strong>&COPY;</strong> 2024. All Rights Reserved.</label>
+				<label class="m-0">版权所有 <strong>&COPY;</strong> 2024。 保留所有权利。</label>
 			</div>
 			<!-- Copyright Text -->
 		</div>

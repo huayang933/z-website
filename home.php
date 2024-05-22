@@ -7,12 +7,10 @@
             <div class="container hero-one-container d-flex flex-column h-100">
                 <div class="hero-one-wrapper my-auto d-flex flex-column justify-content-center order-xl-1 order-2">
                     <div class="home-one-hero-content">
-                        <h1 class="text-white ">Smart Apps For Smart Life!</h1>
-                        <p class="text-white text-center text-xl-start">is an App landing page to present your app or
-                            product, It comes with simple,
-                            modern, clean &
-                            unique look. You can use it as App landing page, Creative Business website, Agency, Startup,
-                            Blog.</p>
+                        <h1 class="text-white ">智能应用，智慧生活！</h1>
+                        <p class="text-white text-center text-xl-start">
+                            我们是一家专注于商业软件开发的公司，致力于为企业提供定制化的解决方案，以满足其独特的业务需求。我们拥有一支技术精湛、经验丰富的团队，能够开发出高质量、可靠稳定的商业应用程序。无论您需要管理企业资源、优化业务流程，还是提升客户体验，我们都能够提供创新的解决方案。
+                        </p>
                     </div>
                     <div
                         class="home-one-hero-app-link  align-items-center justify-content-center justify-content-xl-start  d-flex w-100">
@@ -35,11 +33,9 @@
             <div class="container d-flex flex-column gap-5">
                 <div class="text-center">
                     <div class="page-head-one">
-                        <h2 class="page-head-one-title">App Screenshots</h2>
+                        <h2 class="page-head-one-title">应用截图</h2>
                         <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots" />
-                        <p class="page-head-one-short">Efficiently syndicate flexible content via cost effective
-                            initiatives completely leverage vertical quality. Turn your mobile visitors into your best
-                            customers.</p>
+                        <p class="page-head-one-short">通过成本效益的举措，高效地传播灵活内容，充分利用垂直质量。将您的移动访问者转化为您最好的客户。</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -79,23 +75,21 @@
             <div class="container">
                 <div class="page-head-one d-flex flex-column gap-5">
                     <div>
-                        <h2 class="page-head-one-title">No Additional Costs. Pay For What You Use.</h2>
+                        <h2 class="page-head-one-title">无额外费用。按您使用的付费。</h2>
                         <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots" />
-                        <p class="page-head-one-short">Efficiently syndicate flexible content via cost effective
-                            initiatives completely leverage vertical quality. Turn your mobile visitors into your best
-                            customers.</p>
+                        <p class="page-head-one-short">我们的定价策略非常简单明了：您只需支付您实际使用的部分，没有任何额外费用。</p>
                     </div>
                     <div class="mx-auto">
                         <ul class="nav nav-pills price_tab" id="pills-tab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
                                     data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
-                                    aria-selected="true">Monthly</button>
+                                    aria-selected="true">每月</button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
                                     data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
-                                    aria-selected="false">Yearly</button>
+                                    aria-selected="false">每年</button>
                             </li>
                         </ul>
                     </div>
@@ -106,36 +100,36 @@
                         <div class="row justify-content-center price_costs_card_wrapper">
                             <div class="col-xl-4 col-lg-5 col-md-6">
                                 <div class="white_bg white_box h-100">
-                                    <span>Individual Plan</span>
+                                    <span>个人计划</span>
                                     <div class="price_text">
                                         <div class="price-cost">$<sub>22.00</sub></div>
-                                        <p>Monthly Package</p>
+                                        <p>月度套餐</p>
                                     </div>
                                     <div class="dec_text">
-                                        <p>Community support</p>
-                                        <p>400+ pages</p>
-                                        <p>100+ header variations</p>
-                                        <p>20+ home page options</p>
+                                        <p>社区支持</p>
+                                        <p>400+ 页面</p>
+                                        <p>100+ 页眉变化</p>
+                                        <p>20+ 主页选项</p>
                                     </div>
-                                    <a href="javascript:void(0)" class="btn btn-common rose">Get Started</a>
+                                    <a href="javascript:void(0)" class="btn btn-common rose">开始使用</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-5 col-md-6 mb-0">
                                 <div class="white_bg white_box h-100">
-                                    <span>Enterprise Plan</span>
+                                    <span>企业计划</span>
                                     <div class="price_text">
                                         <div class="price-cost blue_color">$<sub>99.00</sub></div>
-                                        <p>Monthly Package</p>
+                                        <p>月度套餐</p>
                                     </div>
                                     <div class="dec_text">
-                                        <p>24/7 support</p>
-                                        <p>400+ pages</p>
-                                        <p>200+ header variations</p>
-                                        <p>40+ home page optionss</p>
-                                        <p>E-commerce</p>
-                                        <p>Free Domain</p>
+                                        <p>24/7 支持</p>
+                                        <p>400+ 页面</p>
+                                        <p>200+ 页眉变化</p>
+                                        <p>40+ 主页选项</p>
+                                        <p>电子商务</p>
+                                        <p>免费域名</p>
                                     </div>
-                                    <a href="javascript:void(0)" class="btn btn-common">Get Started</a>
+                                    <a href="javascript:void(0)" class="btn btn-common">开始使用</a>
                                 </div>
                             </div>
                         </div>
@@ -145,38 +139,38 @@
                         <div class="row align-items-center justify-content-center">
                             <div class="col-xl-4 col-lg-5 col-md-6">
                                 <div class="white_bg white_box">
-                                    <span>Individual Plan</span>
+                                    <span>个人计划</span>
                                     <div class="price_text">
                                         <div class="price-cost">$<sub>199.00</sub></div>
-                                        <p>Yearly Package</p>
+                                        <p>年度套餐</p>
                                     </div>
                                     <div class="dec_text">
-                                        <p>24/7 support</p>
-                                        <p>400+ pages</p>
-                                        <p>200+ header variations</p>
-                                        <p>40+ home page optionss</p>
-                                        <p>E-commerce</p>
-                                        <p>Free Domain</p>
+                                        <p>24/7 支持</p>
+                                        <p>400+ 页面</p>
+                                        <p>200+ 页眉变化</p>
+                                        <p>40+ 主页选项</p>
+                                        <p>电子商务</p>
+                                        <p>免费域名</p>
                                     </div>
-                                    <a href="javascript:void(0)" class="btn btn-common rose">Get Started</a>
+                                    <a href="javascript:void(0)" class="btn btn-common rose">开始使用</a>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-5 col-md-6 mb-0">
                                 <div class="white_bg white_box">
-                                    <span>Enterprise Plan</span>
+                                    <span>企业计划</span>
                                     <div class="price_text">
                                         <div class="price-cost blue_color">$<sub>499.00</sub></div>
-                                        <p>Yearly Package</p>
+                                        <p>年度套餐</p>
                                     </div>
                                     <div class="dec_text">
-                                        <p>24/7 support</p>
-                                        <p>400+ pages</p>
-                                        <p>200+ header variations</p>
-                                        <p>40+ home page optionss</p>
-                                        <p>E-commerce</p>
-                                        <p>Free Domain</p>
+                                        <p>24/7 支持</p>
+                                        <p>400+ 页面</p>
+                                        <p>200+ 页眉变化</p>
+                                        <p>40+ 主页选项</p>
+                                        <p>电子商务</p>
+                                        <p>免费域名</p>
                                     </div>
-                                    <a href="javascript:void(0)" class="btn btn-common">Get Started</a>
+                                    <a href="javascript:void(0)" class="btn btn-common">开始使用</a>
                                 </div>
                             </div>
                         </div>
@@ -201,9 +195,7 @@
                                         <div class="page-review-icon-quote">
                                             <img src="assets/images/icons/icon-quote.svg" alt="quote">
                                         </div>
-                                        <p class="page-review-text">"Thank you for guiding us through the construction
-                                            process understanding and process, and always ready to accommodate our needs. We
-                                            love our new space and know that it was built by the very best!"</p>
+                                        <p class="page-review-text">"我一直在使用他们的服务，我非常满意！他们的团队非常专业，响应迅速，解决问题非常有效。我强烈推荐他们！"</p>
                                         <div class="page-review-user-and-profession">
                                             <div class="page-user-and-rating">
                                                 <label class="page-user-name">Sarah Carlos</label>
@@ -228,9 +220,7 @@
                                         <div class="page-review-icon-quote">
                                             <img src="assets/images/icons/icon-quote.svg" alt="quote">
                                         </div>
-                                        <p class="page-review-text">"Thank you for guiding us through the construction
-                                            process understanding and process, and always ready to accommodate our needs. We
-                                            love our new space and know that it was built by the very best!"</p>
+                                        <p class="page-review-text">"我对他们提供的服务感到非常满意。他们的团队专业且友好，总是乐于解答我的问题并提供帮助。他们的产品质量很高，功能强大，给我的业务带来了很大的改善。我强烈推荐他们！"</p>
                                         <div class="page-review-user-and-profession">
                                             <div class="page-user-and-rating">
                                                 <label class="page-user-name">Sarah Carlos</label>
@@ -257,9 +247,7 @@
                                         <div class="page-review-icon-quote">
                                             <img src="assets/images/icons/icon-quote.svg" alt="quote">
                                         </div>
-                                        <p class="page-review-text">"Thank you for guiding us through the construction
-                                            process understanding and process, and always ready to accommodate our needs. We
-                                            love our new space and know that it was built by the very best!"</p>
+                                        <p class="page-review-text">"与他们合作的经历非常愉快！他们的团队始终专注于客户的需求，并提供出色的解决方案。他们的专业知识和技能使得项目的执行非常顺利。我对他们的服务感到非常满意，强烈推荐给其他人！"</p>
                                         <div class="page-review-user-and-profession">
                                             <div class="page-user-and-rating">
                                                 <label class="page-user-name">Sarah Carlos</label>
@@ -284,9 +272,7 @@
                                         <div class="page-review-icon-quote">
                                             <img src="assets/images/icons/icon-quote.svg" alt="quote">
                                         </div>
-                                        <p class="page-review-text">"Thank you for guiding us through the construction
-                                            process understanding and process, and always ready to accommodate our needs. We
-                                            love our new space and know that it was built by the very best!"</p>
+                                        <p class="page-review-text">"我对他们的服务感到非常满意！他们的团队非常专业和敬业，始终以客户为中心，确保我们的需求得到满足。他们的响应速度非常快，解决问题的能力也很强。我真的很高兴选择了他们作为我们的合作伙伴！"</p>
                                         <div class="page-review-user-and-profession">
                                             <div class="page-user-and-rating">
                                                 <label class="page-user-name">Sarah Carlos</label>
@@ -307,11 +293,10 @@
                     </div>
                     <div class="col-lg-5 col-md-12 order-lg-2 order-1 align-self-center">
                         <div class="page-head-one text-lg-start">
-                            <h2 class="page-head-one-title">What Our Customer Says!</h2>
+                            <h2 class="page-head-one-title">我们的客户说什么！</h2>
                             <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots">
-                            <p class="page-head-one-short ms-0 text-lg-start">Don't just believe our words. </p>
-                            <p class="page-head-one-short ms-0 mt-0 text-lg-start">Check these testimonials from our
-                                satisfied customers!</p>
+                            <p class="page-head-one-short ms-0 text-lg-start">不要仅仅相信我们的话。 </p>
+                            <p class="page-head-one-short ms-0 mt-0 text-lg-start">请查看我们满意客户的推荐！</p>
                             <div class="slider-nav"></div>
                         </div>
                     </div>
@@ -325,26 +310,28 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="page-head-one">
-                            <h2 class="page-head-one-title">Let's Talk About Your Idea</h2>
+                            <h2 class="page-head-one-title">让我们谈谈您的想法。</h2>
                             <img class="page-head-one-dots" src="assets/images/icons/page-banner-one-dots.png" alt="dots">
-                            <p class="page-head-one-short">Check these testimonials from our satisfied customers!</p>
+                            <p class="page-head-one-short">请查看我们满意客户的推荐！</p>
                         </div>
     
                         <div class="page-contact-one-form-wrapper text-center">
-                            <form class="d-flex flex-column gap-3">
+                            <form class="d-flex flex-column gap-3" @submit.prevent="submitForm">
                                 <div class="form-group">
-                                    <input type="text" id="contactGetName" class="input-two" placeholder="Your Name">
+                                    <input v-model="formData.name" type="text" id="contactGetName" class="input-two" placeholder="你的名字" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" id="contactGetMail" class="input-two" placeholder="Your Email">
+                                    <input v-model="formData.email" type="email" id="contactGetMail" class="input-two" placeholder="你的电邮" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" id="contactGetPhone" class="input-two" placeholder="Your Phone">
+                                    <input v-model="formData.contact" type="text" id="contactGetPhone" class="input-two" placeholder="你的手机" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea type="text" id="contactGetMessage" class="textarea-two" placeholder="Your Message" rows="8"></textarea>
+                                    <textarea v-model="formData.message" type="text" id="contactGetMessage" class="textarea-two" placeholder="你的消息" rows="8" required></textarea>
                                 </div>
-                                <button type="submit" class="btn-common btn-submit-two mt-0"> Send Message</button>
+                                <button v-if="status == 'onSubmit'" class="btn-common btn-submit-two mt-0"> 发送消息 </button>
+                                <button v-else-if="status == 'submiting'" class="btn-common btn-submit-two mt-0"> 加载.. </button>
+                                <button v-if="status == 'successful'" class="btn-common btn-submit-two mt-0"> 成功 </button>
                             </form>
                         </div>
     
