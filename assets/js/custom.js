@@ -199,32 +199,32 @@ if (document.querySelectorAll(".dropdown")) {
   }
 }
 
-if (document.getElementById("testimonial")) {
-  $("#testimonial").owlCarousel({
-    loop: true,
-    nav: true,
-    dots: false,
-    nav: true,
-    rewind: false,
-    navContainer: ".slider-nav",
-    navText: [
-      '<i class="fal fa-long-arrow-alt-left"></i>',
-      '<i class="fal fa-long-arrow-alt-right"></i>',
-    ],
-    responsiveClass: true,
-    responsive: {
-      0: {
-        items: 1,
-      },
-      600: {
-        items: 1,
-      },
-      1000: {
-        items: 1,
-      },
-    },
-  });
-}
+// if (document.getElementById("testimonial")) {
+//   $("#testimonial").owlCarousel({
+//     loop: true,
+//     nav: true,
+//     dots: false,
+//     nav: true,
+//     rewind: false,
+//     navContainer: ".slider-nav",
+//     navText: [
+//       '<i class="fal fa-long-arrow-alt-left"></i>',
+//       '<i class="fal fa-long-arrow-alt-right"></i>',
+//     ],
+//     responsiveClass: true,
+//     responsive: {
+//       0: {
+//         items: 1,
+//       },
+//       600: {
+//         items: 1,
+//       },
+//       1000: {
+//         items: 1,
+//       },
+//     },
+//   });
+// }
 // Blog Page 2 Js Start
 if (document.getElementById("bloghome2")) {
   $("#bloghome2").owlCarousel({
@@ -257,46 +257,46 @@ if (document.getElementById("bloghome2")) {
 }
 
 // Screenshot-Carousel Js Start
-if (document.querySelector(".screenshort-carousel")) {
-  $(".screenshort-carousel").owlCarousel({
-    loop: true,
-    margin: 30,
-    navContainer: ".screenshort-nav",
-    navText: [
-      '<i class="fal fa-long-arrow-alt-left"></i>',
-      '<i class="fal fa-long-arrow-alt-right"></i>',
-    ],
-    dots: false,
-    nav: true,
-    responsive: {
-      0: {
-        items: 3,
-        margin: 15,
-      },
-      414: {
-        items: 3,
-        margin: 15,
-      },
-      576: {
-        items: 3,
-        margin: 15,
-      },
-      768: {
-        items: 3,
-        margin: 40,
-      },
-      992: {
-        items: 5,
-      },
-      1200: {
-        items: 5,
-      },
-      1920: {
-        items: 5,
-      },
-    },
-  });
-}
+// if (document.querySelector(".screenshort-carousel")) {
+//   $(".screenshort-carousel").owlCarousel({
+//     loop: true,
+//     margin: 30,
+//     navContainer: ".screenshort-nav",
+//     navText: [
+//       '<i class="fal fa-long-arrow-alt-left"></i>',
+//       '<i class="fal fa-long-arrow-alt-right"></i>',
+//     ],
+//     dots: false,
+//     nav: true,
+//     responsive: {
+//       0: {
+//         items: 3,
+//         margin: 15,
+//       },
+//       414: {
+//         items: 3,
+//         margin: 15,
+//       },
+//       576: {
+//         items: 3,
+//         margin: 15,
+//       },
+//       768: {
+//         items: 3,
+//         margin: 40,
+//       },
+//       992: {
+//         items: 5,
+//       },
+//       1200: {
+//         items: 5,
+//       },
+//       1920: {
+//         items: 5,
+//       },
+//     },
+//   });
+// }
 
 // Home 3 Testimonial Js Start
 if (document.querySelector(".testimonial3")) {

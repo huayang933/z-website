@@ -119,7 +119,7 @@
                     <div class="col-lg-6">
                         <div class="map-wrapper">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.7287297413645!2d72.83747162601586!3d21.20293258177217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04ef82612f015%3A0xf69a23bbf800fd4c!2sRailway%20Station%20Area%2C%20Varachha%2C%20Surat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1711706973549!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.3626685936747!2d103.70263497581601!3d1.5477578609059932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da722205aab061%3A0xead53d61c8f2d7db!2sZeta%20Technology%20Sdn.%20Bhd!5e0!3m2!1sen!2smy!4v1716358439899!5m2!1sen!2smy"
                                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
